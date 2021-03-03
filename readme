@@ -1,4 +1,6 @@
-Need to install Node => https://nodejs.org/en/download/
+1 Need to install Node => https://nodejs.org/en/download/ 
+2 Need to install git  => https://git-scm.com/downloads
+3 
 run npm install.
 run npm run start
 PS.
