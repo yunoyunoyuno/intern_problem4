@@ -7,7 +7,7 @@ img = [];
 
 const scrap = async () => {
         try{
-            const { data } = await axios.get('theinternship.io/');
+            const { data } = await axios.get('https://theinternship.io/');
             let $ = cheerio.load(data);
 
             $('.center-logos').each(function(i,_){
