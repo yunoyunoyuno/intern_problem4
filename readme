@@ -1,0 +1,5 @@
+Need to install Node => https://nodejs.org/en/download/
+run npm install.
+run npm run start
+PS.
+This is very quick demonstration, doesn't add error handling or using routh handler something like that.
