@@ -1,7 +1,10 @@
-1 Need to install Node => https://nodejs.org/en/download/ 
-2 Need to install git  => https://git-scm.com/downloads
-3 
-run npm install.
-run npm run start
+1. Need to install Node => https://nodejs.org/en/download/ 
+2. Need to install git  => https://git-scm.com/downloads
+3. Type this in your terminal ( please allocate any of your folder )
+   git clone https://github.com/yunoyunoyuno/intern_problem4.git
+4. Move to /intern_problem4 directory
+5. run npm install.
+6. run npm run start
+7. In your browser, go to http://localhost:3000
 PS.
 This is very quick demonstration, doesn't add error handling or using routh handler something like that.
